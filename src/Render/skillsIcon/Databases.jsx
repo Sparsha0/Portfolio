@@ -9,7 +9,7 @@ function Databases() {
         {["mysql", "postgresql", "mongodb"].map((db) => (
           <img
             key={db}
-            src={`${process.env.PUBLIC_URL}/icons/${tech}.svg`}
+            src={`/icons/${tech}.svg`}
             alt={db}
             className="md:h-22 md:w-22  h-18 w-18 rounded-xl shadow-md border-gray-500 p-2 bg-black"
           />

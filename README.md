@@ -2,7 +2,7 @@
   Portfolio Website <br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/image1.jpeg" />
+  <img alt="Demo" src="./public/images/image1.jpeg" />
 </div>
 
 <br/>
@@ -16,9 +16,9 @@
 
 <h3 align="center">
     🔹
-    <a href="">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/Sparsha0/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="">Request Feature</a>
+    <a href="https://github.com/Sparsha0/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
@@ -26,11 +26,11 @@
 
 This is a **static portfolio website** built with **React and Tailwind CSS**. It showcases my projects, skills, and resume. It's fully responsive and easy to customize.
 
-> Fork it, customize it, and make it your own. If you use my design, consider giving credit by linking back to [Sparsha0](https://github.com/Sparsha0/Portfolio). Thanks!
+> Fork it, customize it, and make it your own. If you use my design, consider giving credit by linking back to [Sparsha0](https://sparsha0.github.io/Portfolio/). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="" target="_blank">sparshaPortfolioWeb</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://sparsha0.github.io/Portfolio/" target="_blank">sparshaPortfolioWeb</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 

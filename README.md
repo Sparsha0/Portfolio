@@ -63,7 +63,10 @@ Make sure you have **Node.js** and **Git** installed.
 4. Run the development server  
    `npm run dev`.
 
+
 ## Usage Instructions
+
+
 
 Open the project folder and Navigate to `/src`. <br/>
 You will find all the components used and you can edit your information accordingly.
@@ -71,4 +74,5 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
+
 

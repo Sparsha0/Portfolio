@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function Backend() {
   return (
     <section>
@@ -8,7 +9,7 @@ function Backend() {
         {["nodejs-1", "npm", "express","ejs", "git", "github"].map((tech) => (
           <img
             key={tech}
-            src={`/icons/${tech}.svg`}
+            src={`icons/${tech}.svg`}
             alt={tech}
             className="md:h-22 md:w-22 h-18 w-18 rounded-xl shadow-md border p-2 bg-white"
           />

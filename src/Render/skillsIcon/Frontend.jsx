@@ -9,7 +9,7 @@ function Frontend() {
           {["html", "css", "javascript", "bootstrap", "jquery", "react", "tailwindcss"].map((tech) => (
             <img
               key={tech}
-              src={`/icons/${tech}.svg`}
+              src={`icons/${tech}.svg`}
               alt={tech}
               className="md:h-22 md:w-22 h-18 w-18 rounded-xl shadow-md border-gray-500 p-2 bg-gray-950"
             />

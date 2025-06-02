@@ -1,12 +1,74 @@
-# React + Vite
+<h2 align="center">
+  Portfolio Website <br/>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme-img1.png" />
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br/>
 
-Currently, two official plugins are available:
+<center>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 
-## Expanding the ESLint configuration
+</center>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h3 align="center">
+    🔹
+    <a href="">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="">Request Feature</a>
+</h3>
+
+## TL;DR
+
+
+This is a **static portfolio website** built with **React and Tailwind CSS**. It showcases my projects, skills, and resume. It's fully responsive and easy to customize.
+
+> Fork it, customize it, and make it your own. If you use my design, consider giving credit by linking back to [Sparsha0](https://github.com/Sparsha0/Portfolio). Thanks!
+
+## Built With
+
+My personal portfolio <a href="" target="_blank">sparshaPortfolioWeb</a> which features some of my github projects as well as my resume and technical skills.<br/>
+
+This project was built using these technologies.
+
+- ⚛️ React.js
+- 💨 Tailwind CSS
+- 🔧 Vite 
+- 💻 VSCode
+
+## Features
+
+**📖 Multi-Page Layout**
+
+**🎨 Styled with Modern UI with Tailwind CSS**
+
+**📱 Fully Responsive**
+
+## Getting Started
+
+Make sure you have **Node.js** and **Git** installed.
+
+1. Clone the repository  
+   `git clone https://github.com/yourusername/your-portfolio.git`
+
+2. Navigate into the project directory  
+   `cd your-portfolio`
+
+3. Install dependencies  
+   `npm install`
+
+4. Run the development server  
+   `npm run dev`.
+
+## Usage Instructions
+
+Open the project folder and Navigate to `/src`. <br/>
+You will find all the components used and you can edit your information accordingly.
+
+### Show your support
+
+Give a ⭐ if you like this website!
+

@@ -29,8 +29,8 @@ function Header(){
         <div>
         <div className="hidden md:flex md:flex-col w-full">
             <div className="flex flex-col md:flex-row w-full box-border md:justify-between md:items-center">
-                <p className=" flex-1 text-2xl md:text-3xl font-bold  underline decoration-blue-500 md:inline-block text-left">{active}</p>  
-                <div className="flex font-semibold">
+                <p className=" flex-1 text-lg sm:text-xl md:text-3xl font-bold  underline decoration-blue-500 md:inline-block text-left">{active}</p>  
+                <div className="flex font-semibold sm:text-sm md:text-base text-xs">
                     <button onClick={() => setActive("About")}>About</button>
                     <button onClick={() => setActive("Skills")}>Skills</button>
                     <button onClick={() => setActive("Resume")}>Resume</button>
